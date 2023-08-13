@@ -6,3 +6,6 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+
+// This is where the nest js app starts 
